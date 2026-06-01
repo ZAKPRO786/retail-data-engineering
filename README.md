@@ -314,7 +314,7 @@ The solution includes five interactive dashboard pages.
 ```text
 retail-data-engineering/
 
-├── code/
+├── Code/
 │   ├── retail_pipeline.py
 │   ├── eda.py
 │   ├── test.py
@@ -325,14 +325,14 @@ retail-data-engineering/
 │   ├── reference/
 │   └── processed/
 │
-├── documentation/
+├── Documentation/
 │   ├── Project_Documentation.docx
 │   ├── Project_Documentation.pdf
 │   ├── Architecture_Diagram.png
 │   ├── Data_Flow_Diagram.png
 │   └── Data_Model.png
 │
-├── powerbi/
+├── Power Bi/
 │   ├── Retail_Dashboard.pbix
 │   └── Dashboard_Screenshots/
 │
