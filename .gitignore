@@ -1,0 +1,74 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Environment Variables
+
+.env
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Python Testing
+
+.pytest_cache/
+.coverage
+
+# Power BI Auto Recovery Files
+
+*.pbix.autorecover
+
+# Large Generated Outputs (Optional)
+
+outputs/
+temp/
+
+# Azure
+
+.azure/
+
+# Parquet cache files
+
+*.parquet.tmp
+
+# Streamlit
+
+.streamlit/secrets.toml
